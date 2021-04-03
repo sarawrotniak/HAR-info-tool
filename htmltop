@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HAR File Data</title>
+<meta charset="utf8">
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 14px;
+}
+</style>
+</head>
+<body>
