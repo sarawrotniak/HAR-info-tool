@@ -14,8 +14,16 @@ h1 {
   font-family: verdana;
 }
 
-p {
+h3 {
+  color: black;
+  text-align: left;
   font-family: verdana;
+  font-size: 14px;
+}
+
+p {
+  color: blue;
+  font-family: arial;
   font-size: 14px;
 }
 </style>
