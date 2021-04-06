@@ -5,11 +5,11 @@
 <meta charset="utf8">
 <style>
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
   font-family: verdana;
 }
@@ -18,7 +18,7 @@ h3 {
   color: black;
   text-align: left;
   font-family: verdana;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 p {
