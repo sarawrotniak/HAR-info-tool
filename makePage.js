@@ -2,8 +2,8 @@ const match = require('@menadevs/objectron');
 const fs = require('fs');
 
 try {
-    var htmlTop = fs.readFileSync('htmlTop');
-    var htmlEnd = fs.readFileSync('htmlEnd');
+    var htmlTop = fs.readFileSync('htmltop');
+    var htmlEnd = fs.readFileSync('htmlend');
     var HARdataStr = fs.readFileSync('harfile');
     var HARdata = JSON.parse(HARdataStr);
 } catch (err) {
